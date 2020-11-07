@@ -1,0 +1,1 @@
+3rd Javascript assignment, where we had to merge two projects into one, and use it as a single page application. 
